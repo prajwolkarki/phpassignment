@@ -13,7 +13,6 @@ function isArmstrongNumber($number) {
         return false; 
     }
 }
-
 $number = 153; 
 if (isArmstrongNumber($number)) {
     echo "$number is an Armstrong number.";
