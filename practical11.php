@@ -11,3 +11,4 @@ function sumOfDigits($number) {
 $number = 541; 
 $result = sumOfDigits($number);
 echo "The sum of the digits of $number is: $result";
+?>
