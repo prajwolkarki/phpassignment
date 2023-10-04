@@ -25,3 +25,4 @@ $sum += $i;
 }
 }
 echo "The sum of prime numbers less than 200 is: $sum\n";
+?>
